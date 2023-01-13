@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-/*------------------navbar section-------------------*/
+/* ------------------navbar section------------------- */
+
 .nav-container {
    display: flex;
    width: 1440px;
@@ -73,6 +74,7 @@
    display: none;
 }
 /* ---------------------------------------hero section------------------------------------ */
+
 .hero-section .hero-row {
    display: flex;
    background-color: #1C1A19;
@@ -138,6 +140,7 @@
    height: 100%;
 }
 /* --------------------my works----------------------------------------------- */
+
 .myworks {
    width: 1440px; 
    background-color: #eee3e3;
@@ -282,6 +285,7 @@
    color: white;
 }
 /* ---------------------------about me------------------------------------------------- */
+
 .aboutme-container {
    height: 1195px;
    width: 1440px;
@@ -358,6 +362,7 @@
    margin-right: 5px;
 }
 /* -------------------------contact me-------------------------------------- */
+
 .contactme-container {
    display: flex;
    background-color: #faf8f8;
@@ -425,6 +430,7 @@
    font-weight: 400;
 }
 /* --------------------footer---------------------------------- */
+
 .footer-container {
    display: flex;
    justify-content: center;
